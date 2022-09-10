@@ -1,6 +1,4 @@
-# GasStation_SmartContract
-Creating gas station Smart Contract
-#
+# GasStation SmartContract
 
 Solidity
 
